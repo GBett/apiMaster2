@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: martian:0.1.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/martian/martian/0.1.12-SNAPSHOT/martian-0.1.12-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
